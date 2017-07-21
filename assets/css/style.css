@@ -1,0 +1,40 @@
+body {
+	width: 960px;
+	margin: 0;
+}
+
+#top {
+	margin: 0;
+	display: inline-block;
+	text-align: center;
+	background-color: #ffffff;
+	border-bottom: 2px solid #ccc;
+}
+
+header {
+	float: left;
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #4aaaa5;
+	padding: 16px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 20px;
+
+}
+
+nav {
+	float: right;
+	width: 360px;
+	margin: 0 112px;
+	padding: 16px 0px 16px 0;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#mid {
+	display: inline-block;
+}
+
+section {
+	margin: 16px;
+}
